@@ -13,3 +13,11 @@ int main(void)
     return 0;
 }
 thanks for watching my kitchen....
+
+how was the lunch today 
+aravindh
+maha
+murugesh
+arima
+suresh
+srinidhi
